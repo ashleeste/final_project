@@ -20,5 +20,5 @@ Future additions:
 - gallery page w/ search feature
 - about page
 ```
-### Authors
+### Author
 Ashlee Stephenson 
